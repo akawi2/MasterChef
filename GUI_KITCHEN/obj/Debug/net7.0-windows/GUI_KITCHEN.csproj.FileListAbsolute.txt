@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\animation\MasterChef\GUI_KITCHEN\bin\Debug\net7.0-windows\GUI_KITCHEN.exe
+C:\Users\ASUS\source\repos\animation\MasterChef\GUI_KITCHEN\bin\Debug\net7.0-windows\GUI_KITCHEN.deps.json
+C:\Users\ASUS\source\repos\animation\MasterChef\GUI_KITCHEN\bin\Debug\net7.0-windows\GUI_KITCHEN.runtimeconfig.json
+C:\Users\ASUS\source\repos\animation\MasterChef\GUI_KITCHEN\bin\Debug\net7.0-windows\GUI_KITCHEN.dll
+C:\Users\ASUS\source\repos\animation\MasterChef\GUI_KITCHEN\bin\Debug\net7.0-windows\GUI_KITCHEN.pdb
+C:\Users\ASUS\source\repos\animation\MasterChef\GUI_KITCHEN\obj\Debug\net7.0-windows\GUI_KITCHEN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\animation\MasterChef\GUI_KITCHEN\obj\Debug\net7.0-windows\GUI_KITCHEN.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\animation\MasterChef\GUI_KITCHEN\obj\Debug\net7.0-windows\GUI_KITCHEN.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\animation\MasterChef\GUI_KITCHEN\obj\Debug\net7.0-windows\GUI_KITCHEN.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\animation\MasterChef\GUI_KITCHEN\obj\Debug\net7.0-windows\GUI_KITCHEN.sourcelink.json
+C:\Users\ASUS\source\repos\animation\MasterChef\GUI_KITCHEN\obj\Debug\net7.0-windows\GUI_KITCHEN.dll
+C:\Users\ASUS\source\repos\animation\MasterChef\GUI_KITCHEN\obj\Debug\net7.0-windows\refint\GUI_KITCHEN.dll
+C:\Users\ASUS\source\repos\animation\MasterChef\GUI_KITCHEN\obj\Debug\net7.0-windows\GUI_KITCHEN.pdb
+C:\Users\ASUS\source\repos\animation\MasterChef\GUI_KITCHEN\obj\Debug\net7.0-windows\GUI_KITCHEN.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\animation\MasterChef\GUI_KITCHEN\obj\Debug\net7.0-windows\ref\GUI_KITCHEN.dll
